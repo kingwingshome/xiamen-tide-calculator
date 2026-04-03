@@ -1,0 +1,4 @@
+# Ignore references folder and its contents
+references/
+_pycache__/
+*.pyc
